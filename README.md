@@ -1,6 +1,6 @@
 ### Hi, my name is Edgar Gonzalez 👋
 
-### About me <br>
+#### About me <br>
 📲 Mobile developer
 
 <!--
