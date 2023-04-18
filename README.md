@@ -1,7 +1,7 @@
 ### Hi, my name is Edgar Gonzalez 👋
 
 #### About me <br>
-📲 Mobile developer with experience in dagger hilt, MVVM, Room, Clean Architecture and Retrofit
+📲 Mobile developer with experience in Dagger Hilt, MVVM, Room, Clean Architecture and Retrofit
 
 <!--
 **Edgar94Git/Edgar94Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
